@@ -16,7 +16,7 @@
 
 # Register ?
 
-Click the following url to register : [[https://t.me/BlumCryptoBot/app?startapp=ref_aPYIYj1oKc]([https://t.me/blum/app?startapp=ref_naPVKFOOD1)](https://t.me/BlumCryptoBot/app?startapp=ref_aPYIYj1oKc](https://t.me/blum/app?startapp=ref_naPVKFOOD1))
+Click the following url to register : [https://t.me/BlumCryptoBot/app?startapp=ref_aPYIYj1oKc]([https://t.me/blum/app?startapp=ref_naPVKFOOD1)
 
 # How to Use
 
