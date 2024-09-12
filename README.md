@@ -1,12 +1,6 @@
-# Blumtod
-
-AUTO CLAIM FOR BLUM / @blum
-
-[Click to read the readme in Indonesian](README_ID.md)
+# BlumAuto
 
 # Table of Contents
-- [Blumtod](#blumtod)
-- [Table of Contents](#table-of-contents)
 - [Warning](#warning)
 - [Feature](#feature)
 - [Register ?](#register-)
@@ -17,13 +11,9 @@ AUTO CLAIM FOR BLUM / @blum
   - [Windows](#windows)
   - [Linux](#linux)
   - [Termux](#termux)
-- [Video Guide to Get Data](#video-guide-to-get-data)
 - [Javascript Command to Get Telegram Data for Desktop](#javascript-command-to-get-telegram-data-for-desktop)
 - [Run for 24/7](#run-for-247)
 - [Discussion](#discussion)
-- [Support My Work](#support-my-work)
-- [QnA](#qna)
-- [Thank you \< 3](#thank-you--3)
 
 # Warning
 
@@ -41,7 +31,7 @@ All risks are borne by the user
 
 # Register ?
 
-Click the following url to register : [https://t.me/BlumCryptoBot/app?startapp=ref_aPYIYj1oKc](https://t.me/BlumCryptoBot/app?startapp=ref_aPYIYj1oKc)
+Click the following url to register : [[https://t.me/BlumCryptoBot/app?startapp=ref_aPYIYj1oKc]([https://t.me/blum/app?startapp=ref_naPVKFOOD1)](https://t.me/BlumCryptoBot/app?startapp=ref_aPYIYj1oKc](https://t.me/blum/app?startapp=ref_naPVKFOOD1))
 
 # How to Use
 
@@ -65,7 +55,7 @@ Here Config.json Description
 
 ## About Proxy
 
-Register on this site to get free proxy : [Here](https://www.webshare.io/?referral_code=dwj0m9cdi4mp)
+Register on this site to get free proxy : [Here](https://www.webshare.io/)
 
 You can add your proxy list in `proxies.txt` and proxy format is like example below :
 
@@ -97,12 +87,12 @@ socks5://user:pass@127.0.0.1:6969
 
 2. Clone this repository
    ```shell
-   git clone https://github.com/akasakaid/blumtod.git
+   git clone https://github.com/orrnobmahmud/blumauto.git
    ```
 
-3. goto blumtod directory
+3. goto blumauto directory
    ```
-   cd blumtod
+   cd blumauto
    ```
 
 4. install the require library
@@ -135,13 +125,13 @@ socks5://user:pass@127.0.0.1:6969
 2. Clone this repository
    
    ```shell
-   git clone https://github.com/akasakaid/blumtod.git
+   git clone https://github.com/orrnobmahmud/blumauto.git
    ```
 
-3. goto blumtod directory
+3. goto blumauto directory
 
    ```shell
-   cd blumtod
+   cd blumauto
    ```
 
 4. Install the require library
@@ -173,12 +163,12 @@ socks5://user:pass@127.0.0.1:6969
 
 2. Clone this repository
    ```shell
-   git clone https://github.com/akasakaid/blumtod.git
+   git clone https://github.com/orrnobmahmud/blumauto.git
    ```
 
-3. goto blumtod directory
+3. goto blumauto directory
    ```
-   cd blumtod
+   cd blumauto
    ```
 
 4. install the require library
@@ -186,18 +176,13 @@ socks5://user:pass@127.0.0.1:6969
    python -m pip install -r requirements.txt
    ```
 
-5. Edit `data.txt`, input you data token in `data.txt`, find you token in [How to Find Account Token](#how-to-find-account-token). One line for one data account, if you want add you second account add in new line!
+5. Edit `data.txt`, input you data token in `data.txt`. One line for one data account, if you want add you second account add in new line!
 
 6. execute the main program 
    ```
    python bot.py
    ```
 
-# Video Guide to Get Data
-
-The require data is same like [pixelversebot](https://github.com/akasakaid/pixelversebot) so you can watch same tutorial / video guide to get data !
-
-Here : [https://youtu.be/KTZW9A75guI](https://youtu.be/KTZW9A75guI)
 
 # Javascript Command to Get Telegram Data for Desktop
 
@@ -211,25 +196,15 @@ You can run the script bot for 24/7 using vps / rdp. You can use `screen` applic
 
 # Discussion
 
-If you have an question or something you can ask in here : [@sdsproject_chat](https://t.me/sdsproject_chat)
+If you have an question or something you can ask in here : [@Crypto Airdrops (Verified Only)](https://t.me/+MCsnE9INs604YWJl)
 
-# Support My Work
+## Q&A
 
-To support me you can buy me a coffee via website in below
+**Q: Is it necessary to use a proxy with this bot/program script?**
 
-- [Indonesian] https://s.id/nusanqr (QRIS)
-- [Indonesian] https://trakteer.id/fawwazthoerif/tip
-- [Global] https://sociabuzz.com/fawwazthoerif/tribe
+**A:** No, using a proxy is not required for this bot/program script.
 
-# QnA
+**Q: How can I configure and use a proxy?**
 
-Q : Is this bot/program script required to use a proxy?
+**A:** To use a proxy, simply fill out the `proxies.txt` file according to the provided format.
 
-A : No, this bot/program script is not required to use a proxy.
-
-Q : How can I use a proxy?
-
-A : Simply fill in the proxies.txt file according to the format I have explained.
-
-
-# Thank you < 3
