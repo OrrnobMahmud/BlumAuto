@@ -1,23 +1,8 @@
 # BlumAuto
 
-# Table of Contents
-- [Warning](#warning)
-- [Feature](#feature)
-- [Register ?](#register-)
-- [How to Use](#how-to-use)
-  - [Bot.py parameter feature](#botpy-parameter-feature)
-  - [About Config.json](#about-configjson)
-  - [About Proxy](#about-proxy)
-  - [Windows](#windows)
-  - [Linux](#linux)
-  - [Termux](#termux)
-- [Javascript Command to Get Telegram Data for Desktop](#javascript-command-to-get-telegram-data-for-desktop)
-- [Run for 24/7](#run-for-247)
-- [Discussion](#discussion)
-
 # Warning
 
-All risks are borne by the user
+"Users assume all responsibility and risk associated with the use of this bot/program script."
 
 # Feature
 
