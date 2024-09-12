@@ -140,7 +140,7 @@ socks5://user:pass@127.0.0.1:6969
    python3 -m pip install -r requirements.txt
    ```
 
-5. Edit `data.txt`, input you data token in `data.txt`, find you token in [How to Find Account Token](#how-to-find-account-token). One line for one data account, if you want add you second account add in new line!
+5. Edit `data.txt`, input you data token in `data.txt`, line for one data account, if you want add you second account add in new line!
 
 6. execute the main program 
    ```
@@ -192,11 +192,11 @@ copy(Telegram.WebApp.initData)
 
 # Run for 24/7 
 
-You can run the script bot for 24/7 using vps / rdp. You can use `screen` application in vps linux to running the script bot in background process
+You can run the script continuously using a VPS or RDP. Use the screen application on a Linux VPS to keep the script running in the background.
 
 # Discussion
 
-If you have an question or something you can ask in here : [@Crypto Airdrops (Verified Only)](https://t.me/+MCsnE9INs604YWJl)
+If you have any questions or need further assistance, join : [@Crypto Airdrops (Verified Only)](https://t.me/+MCsnE9INs604YWJl)
 
 ## Q&A
 
