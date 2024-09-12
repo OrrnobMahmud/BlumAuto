@@ -1,4 +1,5 @@
 # BlumAuto
+Follow This Installation Guide [https://t.me/verifiedcryptoairdops/167](https://t.me/verifiedcryptoairdops/167)
 
 # Warning
 
