@@ -4,19 +4,20 @@
 
 "Users assume all responsibility and risk associated with the use of this bot/program script."
 
-# Feature
+## Features
 
-- [x] Auto Claim
-- [x] Auto Claim Daily
-- [x] Proxy Support, see [About Proxy](#about-proxy)
-- [x] Support Multi Account
-- [x] Auto Claim Bonus Referral
-- [x] Auto Complete Task, see [About Config.json](#about-configjson)
-- [x] Auto Play Game (random input from user), see [About Config.json](#about-configjson)
+- ✅ Auto Claim
+- ✅ Daily Auto Claim
+- ✅ Proxy Support (see [Proxy Setup](#proxy-setup))
+- ✅ Multi-Account Support
+- ✅ Auto Claim Bonus Referral
+- ✅ Auto Task Completion (details in [Config.json Overview](#configjson-overview))
+- ✅ Automated Game Play (random user input, see [Config.json Overview](#configjson-overview))
+
 
 # Register ?
 
-Click the following url to register : [https://t.me/BlumCryptoBot/app?startapp=ref_aPYIYj1oKc]([https://t.me/blum/app?startapp=ref_naPVKFOOD1)
+Click the following url to register : [https://t.me/BlumCryptoBot/app?startapp=ref_aPYIYj1oKc](https://t.me/blum/app?startapp=ref_naPVKFOOD1)
 
 # How to Use
 
