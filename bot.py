@@ -427,7 +427,7 @@ async def main():
  | (_) | '_| '_| ' \/ _ \ '_ \ | |\/| / _` | ' \| '  \ || / _` |
   \___/|_| |_| |_||_\___/_.__/ |_|  |_\__,_|_||_|_|_|_\_,_\__,_|
                                                                 
-    Auto Claim Bot For XkuCoin - Orrnob's Drop Automation
+    Auto Claim Bot For Blum - Orrnob's Drop Automation
     Author  : Orrnob Mahmud
     Github  : https://github.com/OrrnobMahmud
     Telegram: https://t.me/verifiedcryptoairdops
