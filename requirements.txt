@@ -1,7 +1,8 @@
 requests
 requests[socks]
 colorama
-httpx
+httpx==0.21.1
+httpcore==0.14.7
 httpx_socks
 aiofiles
 aiosqlite
