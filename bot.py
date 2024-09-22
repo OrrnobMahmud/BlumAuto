@@ -431,7 +431,7 @@ async def main():
     Author  : Orrnob Mahmud
     Github  : https://github.com/OrrnobMahmud
     Telegram: https://t.me/verifiedcryptoairdops
-        {Style.RESET_ALL}"""
+        r"""{Style.RESET_ALL}"""
         
     arg = argparse.ArgumentParser()
     arg.add_argument(
