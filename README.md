@@ -178,7 +178,7 @@ socks5://user:pass@127.0.0.1:6969
 
    ```
    docker run -it \
-     -v "./data.txt:/app/moonbixauto/data.txt" \
+     -v "./data.txt:/app/blumauto/data.txt" \
      ghcr.io/orrnobmahmud/blumauto:latest
    ```
 
