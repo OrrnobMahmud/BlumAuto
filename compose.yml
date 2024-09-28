@@ -1,0 +1,5 @@
+services:
+    app:
+      image: ghcr.io/orrnobmahmud/blumauto
+      volumes:
+        - ./data.txt:/app/blumauto/data.txt
