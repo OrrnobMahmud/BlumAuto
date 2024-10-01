@@ -170,6 +170,23 @@ socks5://user:pass@127.0.0.1:6969
    python bot.py
    ```
 
+## Docker
+
+1. Make sure that docker is installed on your system.
+2. Edit `data.txt`, input you data token in `data.txt`. One line for one data account, if you want add you second account add in new line!
+3. Run docker container
+
+   ```
+   docker run -it \
+     -v "./data.txt:/app/blumauto/data.txt" \
+     ghcr.io/orrnobmahmud/blumauto:latest
+   ```
+
+   or use compose:
+
+   ```
+   docker compose up
+   ```
 
 # Javascript Command to Get Telegram Data for Desktop
 
